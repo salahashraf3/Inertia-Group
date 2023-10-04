@@ -1,0 +1,58 @@
+[
+  {
+    "name": "iPhone 9",
+    "img": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+    "rating": 4.69,
+    "price": 549,
+    "id": 1
+  },
+  {
+    "name": "iPhone X",
+    "img": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+    "rating": 4.44,
+    "price": 899,
+    "id": 2
+  },
+  {
+    "name": "HP Pavilion 15-DK1056WM",
+    "img": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
+    "rating": 4.43,
+    "price": 1099,
+    "id": 10
+  },
+  {
+    "name": "Oil Free Moisturizer 100ml",
+    "img": "https://i.dummyjson.com/data/products/18/thumbnail.jpg",
+    "rating": 4.56,
+    "price": 40,
+    "id": 18
+  },
+  {
+    "name": "MacBook Pro",
+    "img": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+    "rating": 4.57,
+    "price": 1749,
+    "id": 6
+  },
+  {
+    "name": "Samsung Universe 9",
+    "img": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+    "rating": 4.09,
+    "price": 1249,
+    "id": 3
+  },
+  {
+    "name": "Samsung Galaxy Book",
+    "img": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
+    "rating": 4.25,
+    "price": 1499,
+    "id": 7
+  },
+  {
+    "name": "OPPOF19",
+    "img": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+    "rating": 4.3,
+    "price": 280,
+    "id": 4
+  }
+]
